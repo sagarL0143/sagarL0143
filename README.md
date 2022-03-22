@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Sagar Lokhande</h1>
 <h3 align="center">| Automation Developer | Python | Blockchain Certified | Google Cloud Platform (GCP) | Java | AWS | </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarL0143&label=Profile%20views&color=0e75b6&style=flat" alt="sagarL0143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarL0143&label=Profile%20views&color=0e75b6&style=flat" alt="sagarL0143" id="profile_views"/> </p>
 
 - 🌱 Automation Developer working on latest blend of technologies to design backend frameworks for process and test automation. Skilled in designing the framework with use of open source technologies. Have worked as Solution Test Engineer to perform multiple tasks like Longevity, Performance tests and End 2 End user experience journey about the product. I am enthusiastic about making latest picks in automation industry and happenings around the globe.
 
